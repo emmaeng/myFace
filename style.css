@@ -1,0 +1,41 @@
+#first
+{	
+	width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: red;
+	position:fixed;
+	left:350px;
+	top:150px;
+}
+
+#second
+{
+	width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: red;
+	position:fixed;
+	left:700px;
+	top:150px;
+}
+
+#third
+{
+	width:70px;
+	height:70px;
+	background:red;
+	position:fixed;
+	left:550px;
+	top:350px;
+}
+
+#fourth
+{
+	width:400px;
+	height:100px;
+	background:red;
+	position:absolute;
+	left:380px;
+	top:500px;
+}
